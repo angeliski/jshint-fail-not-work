@@ -1,0 +1,14 @@
+{
+  "browser":true,
+  "asi":true,
+  "camelcase":true,
+  "es5":false,
+  "evil":true,
+  "globalstrict":true,
+  "unused":true,
+  "indent":4,
+  "strict":true,
+  "validthis":true,
+  "jquery":true,
+  "node":true
+}
